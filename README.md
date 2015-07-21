@@ -1,5 +1,5 @@
 # Angular2 Hello World
-Just a bare bone Angular 2 Hello World example to help you start with the Angular.io quick start
+Just a bare bone Angular 2 Hello World example to help you start with the Angular.io quick start with TypeScript
 
 **Note:**  Angular 2.0 is still in Alpha Preview!
 
