@@ -1,0 +1,22 @@
+# OS
+# ===========
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Sublime
+# ==============
+.sublime-project
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse
+# =====================
+.project
+.settings/
+.*.md.html
+.metadata
+*~.nib
+local.properties
+
