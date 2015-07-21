@@ -1,3 +1,7 @@
+# This app
+# ===========
+main.js
+
 # OS
 # ===========
 .DS_Store
@@ -6,13 +10,13 @@ Icon?
 Thumbs.db
 
 # Sublime
-# ==============
+# ==========
 .sublime-project
 *.sublime-project
 *.sublime-workspace
 
 # Eclipse
-# =====================
+# ===========
 .project
 .settings/
 .*.md.html
